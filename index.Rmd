@@ -1,0 +1,20 @@
+---
+title: "Integridade Eleitoral e confiança nas urnas eletrônicas"
+subtitle: "GIEL - Grupo de Investigação Eleitoral"
+author: "Felipe Borba & Steven Dutt-Ross"
+date: '05 a 09 de julho de 2021'
+output: 
+  cleanrmd::html_document_clean:
+    theme: new
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Slides
+
+- [Sistema-Politico-Brasileiro-2021](intro/index.html)
+
+- [Outras apresentações](http://giel.uniriotec.br/?file=home)
+
