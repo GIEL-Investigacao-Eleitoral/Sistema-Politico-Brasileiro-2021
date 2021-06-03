@@ -12,6 +12,9 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
+![](https://raw.githubusercontent.com/GIEL-Investigacao-Eleitoral/Sistema-Politico-Brasileiro-2021/main/intro/logo.png)
+
 ## Slides
 
 - [Sistema-Politico-Brasileiro-2021](intro/index.html)
